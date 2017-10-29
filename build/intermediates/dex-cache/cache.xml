@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/home/khilman/Documents/basic21oct/ScoreCounter/app/build/intermediates/pre-dexed/release/butterknife-annotations-8.8.1_21c6da295415df979c71d62c8fb3c116f0dd076c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/5070b831c6b3ceaa3f3984babdc239a23a1148a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/home/khilman/Documents/basic21oct/ScoreCounter/app/build/intermediates/pre-dexed/release/classes_b8904fc9ea4f477818a8e2f5e37283fa41ded870.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Documents/basic21oct/ScoreCounter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9ef2f9b529abdd598d0a1f77917ac19d92b7e90">
+        <dex dex="/home/khilman/Documents/basic21oct/ScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9a79d2d80488f1a609409f985d05ae39ba213426/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Documents/basic21oct/ScoreCounter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/khilman/Documents/basic21oct/ScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_adeb63579297edd289009466014f1fd277bda41e/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Score Counter</string>
+    <string name="hint_edt_name">Enter Team name</string>
+</resources>

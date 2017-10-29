@@ -1,0 +1,7 @@
+#Sun Oct 22 17:14:38 WIB 2017
+base.0=/home/khilman/Documents/basic21oct/ScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_adeb63579297edd289009466014f1fd277bda41e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/khilman/Documents/basic21oct/ScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9a79d2d80488f1a609409f985d05ae39ba213426/classes.dex
+base.1=/home/khilman/Documents/basic21oct/ScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9a79d2d80488f1a609409f985d05ae39ba213426
+file.0=/home/khilman/Documents/basic21oct/ScoreCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_adeb63579297edd289009466014f1fd277bda41e/classes.dex
